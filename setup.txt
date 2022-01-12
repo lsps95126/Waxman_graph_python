@@ -1,0 +1,5 @@
+alpha 0.05
+beta 0.5
+nodes 256
+area 100
+request 3
